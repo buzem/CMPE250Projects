@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cagatay/Dropbox/Asistanlık/2016-Fall-CMPE250/repos/2016400270/project3/project3.cpp
+iostream
+-
+algorithm
+-
+fstream
+-
+queue
+-
+iomanip
+-
+
