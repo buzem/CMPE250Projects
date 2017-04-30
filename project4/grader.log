@@ -1,0 +1,24 @@
+Compiling...
+-- The C compiler identification is GNU 4.9.4
+-- The CXX compiler identification is GNU 4.9.4
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/cagatay/Dropbox/Asistanlık/2016-Fall-CMPE250/repos/2016400270/project4
+Scanning dependencies of target project4
+[100%] Building CXX object CMakeFiles/project4.dir/project4.cpp.o
+Linking CXX executable project4
+[100%] Built target project4
+Compiling succesful...
+Testing 1 of 5
+Testing 2 of 5
+Testing 3 of 5
+Testing 4 of 5
+Testing 5 of 5
